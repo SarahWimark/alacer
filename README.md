@@ -1,4 +1,0 @@
-alacer
-======
-
-Webtemplate

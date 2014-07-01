@@ -1,0 +1,2 @@
+Alacer is a PHP boilerplate/framework for small websites.Alacer was built by Sarah Wimark
+as a part of a course in Objectoriented PHP-programming.
